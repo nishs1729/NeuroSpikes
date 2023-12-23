@@ -1,5 +1,9 @@
 module NeuroSpikes
 
-# Write your package code here.
+# ———— imports ————
+
+# ———— includes ————
+
+# ———— exports ————
 
 end
